@@ -1,5 +1,5 @@
 # Distributed-System
-A simple pub-sub model using core OS etcd 
+A simple pub-sub model using core OS etcd watch api
 
 Example of pub-sub model: 
 
